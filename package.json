@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kensation.lwc-krb701tv-fork-krb75f87",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve z2pDM3f0WpeOAaXKLuOb --open"
+  }
+}
